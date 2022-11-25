@@ -22,6 +22,9 @@
 
 **[ps-ui](https://github.com/Project-Sloth/ps-ui)**
 
+**[CREDIT](https://github.com/MT-Scripts/mt-mining)**
+
+
 
 
 
